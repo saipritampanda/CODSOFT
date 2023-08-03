@@ -1,4 +1,4 @@
-# CODSOFT
+# CODSOF
  📁 CodSoft Internship Task Repository 📁
 
 This repository serves as a centralized hub where I document and manage all the tasks given by the CodSoft team. From coding challenges to real-world projects, each task will be meticulously documented, along with progress updates and any lessons learned along the way.
